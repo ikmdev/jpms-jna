@@ -10,7 +10,7 @@
 
     <groupId>dev.ikm.jpms</groupId>
     <artifactId>jna-parent</artifactId>
-    <version>5.18.1-r1-SNAPSHOT</version>
+    <version>5.18.1-r1</version>
     <packaging>pom</packaging>
 
     <name>JNA Parent for JPMS wrapping</name>
