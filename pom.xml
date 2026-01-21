@@ -16,15 +16,6 @@
     <name>JNA Parent for JPMS wrapping</name>
     <description>JPMS wrappers for the JNA and Platform Libraries</description>
 
-    <repositories>
-        <repository>
-            <id>tinkar-nexus</id>
-            <url>https://nexus.tinkar.org/repository/ike-public/</url>
-            <releases><enabled>true</enabled></releases>
-            <snapshots><enabled>true</enabled></snapshots>
-        </repository>
-    </repositories>
-
     <properties>
         <!-- change release here-->
         <core.artifact.version>5.18.1</core.artifact.version>
